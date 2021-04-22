@@ -1,0 +1,25 @@
+{
+    "id": "99CCFEA6",
+    "path": "~/Dropbox/MSc/Course_Work/Machine_Learning/Assignment_1/Titanic/Scripts/prediction_4.R",
+    "project_path": "Scripts/prediction_4.R",
+    "type": "r_source",
+    "hash": "2827213976",
+    "contents": "",
+    "dirty": false,
+    "created": 1612804408337.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "48,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1612862868,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1612862868403,
+    "read_only": false,
+    "read_only_alternatives": []
+}
